@@ -41,4 +41,4 @@
  - Attention 분석 시각화
 
 5. 발표자료
- - <a href="20 카카오인턴발표자료_임환규_4420.pdf"> 20 카카오인턴발표자료_임환규_4420.pdf </a>
+ - <a href="presentation.pdf"> presentation.pdf </a>
